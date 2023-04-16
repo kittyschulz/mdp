@@ -1,1 +1,3 @@
-# reinforcement-learning
+# Markov Decision Processes
+
+A comparative analysis of three algorithms is performed on two Markov Decision Processes (MDP). The algorithms include Value Iteration, Policy Iteration, and Q Learning. The MDPs used in this analysis are Frozen Lake and Taxi; these algorithms have been chosen to each showcase the differences of the three algorithms. Experiments were implemented using the Python libraries [OpenAI Gym](https://www.gymlibrary.dev/) and [bettermdptools](https://github.com/jlm429/bettermdptools). Additionally, custom environments were implemented to allow expirimentation with larger space sizes of 16x16 for Frozen Lake and 10x10 for Taxi.
