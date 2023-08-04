@@ -4,7 +4,9 @@ A comparative analysis of three algorithms is performed on two Markov Decision P
 
 ## Running the Code
 
-The code used to run experiments for this project can be found in this [Jupyter Notebook hosted on Google Colab](https://colab.research.google.com/github/kittyschulz/mdp/blob/main/mdp.ipynb).
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kittyschulz/mdp/blob/main/mdp.ipynb)
+
+The code used to run experiments for this project can be found in the [Jupyter Notebook hosted on Google Colab](https://colab.research.google.com/github/kittyschulz/mdp/blob/main/mdp.ipynb).
 
 Colab allows anyone to write and execute arbitrary Python code through the browser. Colab can be accessed from a desktop or mobile device. Google Colab was chosen to host the notebook so that it is hopefully more accessible to all parties. Note that you must be logged into a Google account to run code. You do not need to be logged in to view the notebook, including the outputs for each cell.
 
